@@ -1,7 +1,7 @@
 source 'https://rubygems.org/'
 
 # bleeding edge from git
-#gem 'pmdtester', :git => 'https://github.com/pmd/pmd-regression-tester.git', branch: 'master'
+#gem 'pmdtester', '>= 1.4.0', :git => 'https://github.com/pmd/pmd-regression-tester.git', branch: 'master'
 
 gem 'pmdtester'
 gem 'danger'
